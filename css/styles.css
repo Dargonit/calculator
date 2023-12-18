@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+
+.button{
+    color:navajowhite;
+}
+
+.display{
+    
+    background-color: aliceblue;
+}
