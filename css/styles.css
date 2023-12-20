@@ -1,9 +1,14 @@
 .container{
-    display: flex;
+    display: grid;
+    justify-content: center;
+    grid-template-columns:40em;
 }
 
+.row{
+    padding: 1em;
+}
 .button{
-    color:navajowhite;
+    color:rgb(170, 113, 26);
 }
 
 .display{
